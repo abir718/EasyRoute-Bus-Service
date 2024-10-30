@@ -62,7 +62,7 @@ let [modal , showModal] = useState(false)
       showModal(true)
     }
 
-    let [ticket1 , ticket2 , ticket3 , ticket4] = select
+
   };
 
   return (

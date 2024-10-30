@@ -1,8 +1,19 @@
-# React + Vite
+## EasyRoute Bus Service
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Preview : https://easyroute.netlify.app/
 
-Currently, two official plugins are available:
+EasyRoute is a streamlined ticket purchasing website designed for convenience and simplicity. EasyRoute offers a user-friendly experience for quick and easy bookings, making event planning hassle-free.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Key Features 
+
+1. Ticket Purchasing System
+2. Max 4 ticket limit
+3. Warning for invalid inputs
+
+# Technologies Used
+
+1. HTML5
+2. Tailwind
+3. javascript
+4. React.js
+5. React Toastify
