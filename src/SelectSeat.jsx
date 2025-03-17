@@ -15,9 +15,6 @@ const SelectSeat = () => {
                 
             </div>
             <hr className="border-t border-gray-400 border-dashed my-4" />
-            <div className='ml-[545px] w-20 rounded-lg flex items-center justify-center bg-gray-100 py-2'>
-            <img className="h-6" src="/images/2087.png" alt="" />
-            </div>
 
         </div>
     );

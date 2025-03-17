@@ -72,9 +72,9 @@ let [modal , showModal] = useState(false)
       <section  className="border-2 border-green-500 bg-gray-100 ">
       <Ticket></Ticket>
       <div className='flex items-center mx-auto justify-center'>
-      <div className='bg-white flex gap-12 p-10 rounded-lg'>
-        <div>
-        <SelectSeat></SelectSeat>     
+      <div className='bg-white lg:flex gap-10 rounded-lg p-6'>
+        <div className=''>
+        <SelectSeat></SelectSeat> 
         <Seats seatSelect={seatSelect} select={select}></Seats>
         </div> 
       <div>

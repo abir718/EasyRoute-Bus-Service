@@ -2,7 +2,7 @@ import Seat from "./Seat";
 
 const Others =({select , seatDeselect})=> {
     return (
-        <div className="bg-gray-100 p-4 w-[450px] rounded-lg my-6">
+        <div className="bg-gray-100 w-fit p-4 rounded-lg my-6">
         <div className="flex justify-between">
         <p className="font-medium">Seat</p>
         <p className="font-medium">Class</p>
